@@ -62,6 +62,7 @@ h1 {
   color: steelblue;
   font-size: 42px;
   font-weight: 600;
+  padding: 10px 20px;
   text-align: left;
 }
 
@@ -70,16 +71,16 @@ h2 {
   color: steelblue;
   font-size: 20px;
   line-height: 48px;
-  padding: 20px 30px;
-  margin: 30px 20px;
+  padding: 10px 20px;
+  margin-top: 30px;
   text-align: left;
 }
 
 p {
-  color: midnightblue;
+  color: navy;
   font-size: 16px;
   line-height: 40px;
-  margin-top: 60px;
+  margin-top: 30px;
   padding: 10px 20px;
 }
 
