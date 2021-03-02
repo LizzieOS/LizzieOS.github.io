@@ -77,7 +77,6 @@ h2 {
   color: steelblue;
   font-size: 36px;
   font-family: Georgia, serif; 
-  line-height: 48px;
   padding: 8px 20px;
   margin-top: 30px;
   text-align: left;
@@ -86,9 +85,8 @@ h2 {
 h3 {
   border: medium none color;
   color: steelblue;
-  font-size: 36px;
+  font-size: 32px;
   font-family: Georgia, serif; 
-  line-height: 48px;
   padding: 8px 20px;
   margin-top: 10px;
   text-align: left;
