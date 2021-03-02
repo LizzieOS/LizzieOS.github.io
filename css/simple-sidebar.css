@@ -100,27 +100,27 @@ input {
 input[type=text] {
  width: 75%; 
  padding: 10px 20px; 
- border: 2px solid black;
+ border: 1px solid black;
  border-radius: 5px; 
  box-sizing: border-box; 
 } 
 
 input[type=text]:focus {
- border: 2px solid gold; 
+ border: 1px solid gold; 
 }
  
 textarea {
  width: 75%; 
  height: 150px; 
  padding: 10px 20px; 
- border: 2px solid black; 
+ border: 1px solid black; 
  border-radius: 5px; 
  box-sizing: border-box; 
  resize: none; 
 } 
  
 textarea:focus {
- border: 2px solid gold; 
+ border: 1px solid gold; 
 } 
 
 input[type=submit] {
@@ -135,7 +135,7 @@ input[type=submit] {
  
  input[type=submit]:focus {
   background-color: white; 
-  border: steelblue; 
+  border: 1px solid gold; 
   color: steelblue;
 }
 
