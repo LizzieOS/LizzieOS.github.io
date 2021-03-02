@@ -95,7 +95,17 @@ input {
  font-family: Georgia, serif; 
  font-size: 20px;
  padding: 10px, 20px;
+ text-align: left; 
 } 
+
+input[label] { 
+ color: black;
+  font-size: 20px;
+  font-family: Georgia, serif; 
+  line-height: 30px;
+  margin-top: 10px;
+  padding: 8px 20px;
+}
 
 input[type=text] {
  width: 75%; 
