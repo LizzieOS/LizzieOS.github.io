@@ -66,7 +66,7 @@ h1 {
   font-size: 48px;
   font-weight: 600;
   font-family: Georgia, serif; 
-  padding: 20px 40px;
+  padding: 30px 20px;
   background-color: gold; 
   text-align: left;
 }
@@ -177,8 +177,8 @@ input[type=submit] {
 }
 
 .item a {
-  background: white;
-  border: medium none colour;
+  background: whitesmoke;
+  border: medium none color;
   border-radius: 3px;
   color: midnightblue;
   display: inline-block;
@@ -188,7 +188,7 @@ input[type=submit] {
 }
 
 .item a:hover {
-  background: white;
+  background: whitesmoke;
   border: 1px solid midnightblue;
   color: midnightblue;
 }
