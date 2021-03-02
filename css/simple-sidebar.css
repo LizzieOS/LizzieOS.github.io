@@ -88,7 +88,6 @@ h3 {
   font-size: 32px;
   font-family: Georgia, serif; 
   padding: 8px 20px;
-  margin-top: 10px;
   text-align: left;
 }
 
@@ -97,7 +96,7 @@ p {
   font-size: 20px;
   font-family: Georgia, serif; 
   line-height: 30px;
-  margin-top: 10px;
+  margin-top: 5px;
   padding: 8px 20px;
 }
 
