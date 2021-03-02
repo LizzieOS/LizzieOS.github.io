@@ -73,7 +73,7 @@ h2 {
   color: steelblue;
   font-size: 36px;
   line-height: 48px;
-  padding: 10px 20px;
+  padding: 8px 20px;
   margin-top: 30px;
   text-align: left;
 }
@@ -83,12 +83,12 @@ p {
   font-size: 16px;
   line-height: 30px;
   margin-top: 10px;
-  padding: 10px 20px;
+  padding: 8px 20px;
 }
 
 .item {
   border: 2px solid LightGrey;
-  padding: 40px 0px;
+  padding: 5px 20px;
   position: relative;
   text-align: left;
   width: 100%;
@@ -101,7 +101,7 @@ p {
   color: midnightblue;
   display: inline-block;
   margin: 10px;
-  padding: 14px;
+  padding: 5px 20px;
   text-decoration: none;
 }
 
