@@ -78,7 +78,7 @@ h2 {
   font-size: 36px;
   font-family: Georgia, serif; 
   padding: 8px 20px;
-  margin-top: 30px;
+  margin-top: 20px;
   text-align: left;
 }
 
@@ -167,7 +167,7 @@ input[type=submit] {
   color: steelblue;
 }
 
-.item {
+item {
   border: 2px solid LightGrey;
   padding: 5px 20px;
   position: relative;
@@ -175,7 +175,7 @@ input[type=submit] {
   width: 100%;
 }
 
-.item a {
+item a {
   background: whitesmoke;
   border: medium none color;
   border-radius: 3px;
@@ -186,13 +186,13 @@ input[type=submit] {
   text-decoration: none;
 }
 
-.item a:hover {
+item a:hover {
   background: whitesmoke;
   border: 1px solid midnightblue;
   color: midnightblue;
 }
 
-.ul {
+ul {
   color: black;
   font-size: 20px;
   font-family: Georgia, serif; 
@@ -203,7 +203,7 @@ input[type=submit] {
   background-color: whitesmoke;  
 }
 
-.li a {
+li a {
   color: black;
   font-size: 20px;
   font-family: Georgia, serif; 
@@ -213,7 +213,7 @@ input[type=submit] {
   background-color: whitesmoke; 
 }
 
-.li a:hover {
+li a:hover {
   color: gold; 
   background color: whitesmoke;
 }
