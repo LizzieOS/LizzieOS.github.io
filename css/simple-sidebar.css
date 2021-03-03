@@ -3,7 +3,6 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-simple-sidebar/blob/master/LICENSE)
  */
-{
 #wrapper {
     overflow-x: hidden;
  }
@@ -41,7 +40,6 @@
   #wrapper.toggled #sidebar-wrapper {
     margin-left: -15rem;
   }
-    }
 #body {
   background-color: whitesmoke; 
   font-family: Georgia, serif;
