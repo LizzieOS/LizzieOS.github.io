@@ -96,7 +96,7 @@ fieldset {
  Margin: 20px; 
  padding: 10px 20px;
  text-align: left; 
- border
+ border: 1px solid steelblue;
 } 
 label { 
   color: steelblue;
