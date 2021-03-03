@@ -3,11 +3,9 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-simple-sidebar/blob/master/LICENSE)
  */
-
- #wrapper {
+#wrapper {
     overflow-x: hidden;
  }
-
 #sidebar-wrapper {
   min-height: 100vh;
   margin-left: -15rem;
@@ -16,41 +14,32 @@
   -o-transition: margin .25s ease-out;
   transition: margin .25s ease-out;
 }
-
 #sidebar-wrapper .sidebar-heading {
   padding: 0.875rem 1.25rem;
   font-size: 1.2rem;
   color: steelblue; 
   font-family: Georgia, serif; 
 }
-
 #sidebar-wrapper .list-group {
   width: 15rem;
 }
-
 #page-content-wrapper {
   min-width: 100vw;
 }
-
 #wrapper.toggled #sidebar-wrapper {
   margin-left: 0;
 }
-
 @media (min-width: 768px) {
   #sidebar-wrapper {
     margin-left: 0;
   }
-
   #page-content-wrapper {
     min-width: 0;
     width: 100%;
   }
-
   #wrapper.toggled #sidebar-wrapper {
     margin-left: -15rem;
   }
-}
-
 #body {
   background-color: whitesmoke; 
   font-family: Georgia, serif;
@@ -59,7 +48,6 @@
   height: 1000px;
   overflow: scroll;
 }
-
 h1 {
   color: white;
   font-size: 48px;
@@ -69,7 +57,6 @@ h1 {
   background-color: gold; 
   text-align: left;
 }
-
 h2 {
   border-left: 5px solid gold;
   color: steelblue;
@@ -79,7 +66,6 @@ h2 {
   margin-top: 20px;
   text-align: left;
 }
-
 h3 {
   color: steelblue;
   font-size: 32px;
@@ -87,7 +73,6 @@ h3 {
   padding: 8px 20px;
   text-align: left;
 }
-
 h4 {
   border-left: 5px solid gold;
   color: steelblue;
@@ -96,7 +81,6 @@ h4 {
   padding: 8px 20px;
   text-align: left;
 }
-
 p {
   color: black;
   font-size: 20px;
@@ -105,7 +89,6 @@ p {
   margin-top: 5px;
   padding: 8px 20px;
 }
-
 fieldset {
  font-family: Georgia, serif; 
  font-size: 20px;
@@ -114,7 +97,6 @@ fieldset {
  padding: 10px 20px;
  text-align: left; 
 } 
-
 label { 
   color: black;
   font-size: 20px;
@@ -126,7 +108,6 @@ label {
   display: block; 
   float: left;
 }
-
 input[type=text] {
  width: 75%; 
  padding: 10px 20px; 
@@ -134,12 +115,10 @@ input[type=text] {
  border-radius: 5px; 
  margin: 20px;
  box-sizing: border-box; 
-} 
-
+}
 input[type=text]:focus {
  border: 1px solid gold; 
 }
- 
 textarea {
  width: 75%; 
  height: 300px; 
@@ -152,11 +131,9 @@ textarea {
  box-sizing: border-box; 
  resize: none; 
 } 
- 
 textarea:focus {
  border: 1px solid gold; 
 } 
-
 input[type=submit] {
  background-color: steelblue; 
  border: none; 
@@ -166,13 +143,11 @@ input[type=submit] {
  text-decoration: none; 
  cursor: pointer; 
 }
- 
  input[type=submit]:focus {
   background-color: white; 
   border: 1px solid gold; 
   color: steelblue;
 }
-
 item {
   border: 2px solid LightGrey;
   padding: 5px 20px;
@@ -190,13 +165,11 @@ item a {
   padding: 5px 20px;
   text-decoration: none;
 }
-
 item a:hover {
   background: Whitesmoke;
   border: 1px solid midnightblue;
   color: midnightblue;
 }
-
 ul a {
   color: black;
   list-style-type: square; 
@@ -208,7 +181,6 @@ ul a {
   width: 200px;
   background: Whitesmoke;  
 }
-
 li a {
   color: black;
   font-size: 20px;
@@ -218,10 +190,8 @@ li a {
   padding: 8px 20px;
   background-color: Whitesmoke; 
 }
-
 li a:hover {
   color: gold; 
   background-color: Whitesmoke;
 }
 }
-
