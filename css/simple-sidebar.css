@@ -96,14 +96,15 @@ fieldset {
  Margin: 20px; 
  padding: 10px 20px;
  text-align: left; 
+ border
 } 
 label { 
-  color: black;
+  color: steelblue;
   font-size: 20px;
   font-family: Georgia, serif; 
-  line-height: 30px;
-  margin-top: 10px;
-  padding: 8px 20px;
+  line-height: 20px;
+  margin-top: 5px;
+  padding: 0px 20px;
   display: block; 
   float: left;
 }
@@ -114,10 +115,10 @@ input[type=text] {
  border-radius: 5px; 
  margin: 20px;
  box-sizing: border-box; 
-}
+} 
 input[type=text]:focus {
  border: 1px solid gold; 
-}
+} 
 textarea {
  width: 75%; 
  height: 300px; 
@@ -129,21 +130,23 @@ textarea {
  float: left; 
  box-sizing: border-box; 
  resize: none; 
-} 
+}  
 textarea:focus {
  border: 1px solid gold; 
 } 
 input[type=submit] {
  background-color: steelblue; 
- border: none; 
- color: white; 
+ font-family: Georgia, serif;
+ border: 20px solid white;
+ border-radius: 10px;
+ color: white;
  margin: 4px 2px;
- padding: 15px 20px; 
+ padding: 10px 15px; 
  text-decoration: none; 
  cursor: pointer; 
 }
  input[type=submit]:focus {
-  background-color: white; 
+  background-color: white;
   border: 1px solid gold; 
   color: steelblue;
 }
