@@ -58,7 +58,8 @@ h1 {
   padding-bottom: 30px;
   background-color: goldenrod; 
     opacity: 0.8;
-  text-align: left;
+  text-align: left; 
+  margin: 10px solid goldenrod;
 }
 h2 {
   border-left: 5px solid gold;
