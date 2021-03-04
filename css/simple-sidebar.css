@@ -56,11 +56,10 @@ h1 {
   font-family: Georgia, serif; 
   padding: 10px 20px;
   background-color: goldenrod; 
-    opacity: 0.9;
   text-align: left; 
   border-top: 10px solid goldenrod;
-  border-left: 10px; 
-  border-right: 10px;
+  border-left: 20px; 
+  border-right: 20px;
   margin: 0px solid none;
 }
 h2 {
