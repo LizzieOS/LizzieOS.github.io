@@ -54,13 +54,13 @@ h1 {
   font-size: 48px;
   font-weight: 600;
   font-family: Georgia, serif; 
-  padding: 10px 20px;
+  padding-left: 20px;
   background-color: goldenrod; 
   text-align: left; 
   border-top: 10px solid goldenrod;
   border-left: 20px; 
   border-right: 20px;
-  margin: 40px solid goldeneod;
+  margin: 40px solid goldenrod;
 }
 h2 {
   border-left: 5px solid gold;
