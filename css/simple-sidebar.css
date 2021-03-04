@@ -54,18 +54,19 @@ h1 {
   font-size: 48px;
   font-weight: 600;
   font-family: Georgia, serif; 
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: goldenrod; 
+    opacity: 0.8;
   text-align: left;
 }
 h2 {
   border-left: 5px solid gold;
   color: whitesmoke;
-  font-size: 36px;
+  font-size: 40px;
   font-family: Georgia, serif; 
   padding: 8px 20px;
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: left;
   background-color: black;
     opacity: 0.8;
@@ -84,7 +85,7 @@ h4 {
   color: whitesmoke;
   font-size: 28px;
   font-family: Georgia, serif; 
-  padding: 8px 20px;
+  padding: 5px 20px;
   text-align: left;
   background-color: black;
     opacity: 0.8;
