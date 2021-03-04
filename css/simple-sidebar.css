@@ -65,6 +65,7 @@ h2 {
   padding: 8px 20px;
   margin-top: 20px;
   text-align: left;
+  background-color: black;
 }
 h3 {
   color: whitesmoke;
@@ -72,6 +73,7 @@ h3 {
   font-family: Georgia, serif; 
   padding: 8px 20px;
   text-align: left;
+  background-color: black;
 }
 h4 {
   border-left: 5px solid gold;
@@ -80,6 +82,7 @@ h4 {
   font-family: Georgia, serif; 
   padding: 8px 20px;
   text-align: left;
+  background-color: black;
 }
 p {
   color: whitesmoke;
@@ -88,6 +91,7 @@ p {
   line-height: 30px;
   margin-top: 5px;
   padding: 8px 20px;
+  background-color: black;
 }
 fieldset {
  font-family: Georgia, serif; 
@@ -97,6 +101,7 @@ fieldset {
  padding: 10px 20px;
  text-align: left; 
  border-left: 1px solid goldenrod;
+ background-color: black;
 } 
 label { 
   color: whitesmoke;
@@ -107,6 +112,7 @@ label {
   padding: 0px 20px;
   display: block; 
   float: left;
+  background-color: black;
 }
 input[type=text] {
  width: 75%; 
@@ -114,8 +120,9 @@ input[type=text] {
  border: 1px solid whitesmoke;
  border-radius: 5px; 
  margin: 20px;
- box-sizing: border-box; 
-} 
+ box-sizing: border-box;
+ background-color: black;
+    }
 input[type=text]:focus {
  border: 1px solid gold; 
 } 
@@ -129,7 +136,8 @@ textarea {
  display: block; 
  float: left; 
  box-sizing: border-box; 
- resize: none; 
+ resize: none;
+ background-color: black;
 }  
 textarea:focus {
  border: 1px solid gold; 
@@ -149,28 +157,6 @@ input[type=submit] {
   background-color: whitesmoke;
   border: 1px solid goldenrod; 
   color: purple;
-}
-item {
-  border: 2px solid whitesmoke;
-  padding: 5px 20px;
-  position: relative;
-  text-align: left;
-  width: 100%;
-}
-
-item a {
-  background: black;
-  border-radius: 3px;
-  color: whitesmoke;
-  display: inline-block;
-  margin: 10px;
-  padding: 5px 20px;
-  text-decoration: none;
-}
-item a:hover {
-  background: black;
-  border: 1px solid goldenrod;
-  color: whitesmoke;
 }
 ul a {
   color: whitesmoke;
