@@ -54,7 +54,8 @@ h1 {
   font-size: 48px;
   font-weight: 600;
   font-family: Georgia, serif; 
-  padding: 30px 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   background-color: goldenrod; 
   text-align: left;
 }
