@@ -37,6 +37,12 @@
 #wrapper.toggled #sidebar-wrapper {
   margin-left: 0;
 }
+#menu-toggle {
+    background-color: goldenrod; 
+    font-family: Georgia, serif; 
+    color: whitesmoke;
+    border: 1px solid goldenrod;
+}
 @media (min-width: 768px) {
   #sidebar-wrapper {
     margin-left: 0;
