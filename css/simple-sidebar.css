@@ -33,6 +33,7 @@
 }
 #page-content-wrapper {
   min-width: 100vw;
+  background-color: black; 
 }
 #wrapper.toggled #sidebar-wrapper {
   margin-left: 0;
@@ -46,15 +47,17 @@
 ul {
   list-style-type: none;
   margin: 0;
-  padding-right: 20px;
   width: 100px;
-  align: right;
 } 
 li a {
-  display: block;
   background-color: black;
   color: whitesmoke;
   font-family: Georgia, serif;
+}
+li nav-item dropdown {
+    background-color: black; 
+    color: whitesmoke;
+    font-family: Georgia, serif;
 }
 @media (min-width: 768px) {
   #sidebar-wrapper {
