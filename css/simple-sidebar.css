@@ -21,9 +21,15 @@
   font-size: 1.2rem;
   color: purple; 
   font-family: Georgia, serif; 
+  background-color: black; 
+    opacity: 0.8; 
 }
 #sidebar-wrapper .list-group {
   width: 15rem;
+  background-color: black; 
+    opacity: 0.8; 
+  color: whitesmoke; 
+  font-family: Georgia, serif; 
 }
 #page-content-wrapper {
   min-width: 100vw;
