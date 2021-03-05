@@ -43,6 +43,18 @@
     color: whitesmoke;
     border: 1px solid goldenrod;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+} 
+li a {
+  display: block;
+  background-color: black;
+  color: whitesmoke;
+  font-family: Georgia, serif;
+}
 @media (min-width: 768px) {
   #sidebar-wrapper {
     margin-left: 0;
