@@ -120,7 +120,7 @@ p {
     opacity: 1;
     }
 }
-fieldset {
+ fieldset {
  font-family: Georgia, serif; 
  font-size: 20px;
  width: 75%; 
@@ -145,7 +145,8 @@ label {
 }
 input[type=text] {
  width: 75%; 
- padding: 10px 10px; 
+ padding: 10px 20px;
+ margin: 20px;
  border: 1px solid whitesmoke;
  border-radius: 5px; 
  float: left;
@@ -177,12 +178,12 @@ input[type=submit] {
  background-color: purple; 
  font-family: Georgia, serif;
  color: whitesmoke;
- margin: 4px 2px;
+ margin: 4px 20px;
  padding: 10px 10px; 
  border-radius: 10px;
  text-decoration: none; 
  cursor: pointer; 
- floating: left;
+ float: left;
 }
  input[type=submit]:focus {
   background-color: whitesmoke;
