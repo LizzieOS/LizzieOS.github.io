@@ -24,7 +24,7 @@
   font-family: Georgia, serif; 
   background-color: goldenrod; 
 }
-#sidebar-wrapper . list-group-item-action {
+#sidebar-wrapper . list-group-item list-group-item-action bg-dark {
   width: 15rem;
   background-color: black; 
     opacity: 0.8; 
