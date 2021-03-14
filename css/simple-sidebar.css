@@ -216,7 +216,7 @@ li.a :hover {
 ul.b :link{
   color: goldenrod;
   list-style-type: none; 
-  font-size: 18px;
+  font-size: 15px;
   line-height: 30px;
   font-family: Georgia, serif; 
   display: inline;
@@ -227,7 +227,7 @@ ul.b :link{
   background-color: goldenrod; 
   color: whitesmoke;
   border: 1px solid goldenrod;
-    margin-top: 40px;
+    margin-top: 35px;
 }
 li.b {
   color: goldenrod;
