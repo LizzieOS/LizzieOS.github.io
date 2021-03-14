@@ -222,12 +222,12 @@ ul.b :link{
   display: inline;
     float: right;
   width: 100%;
-  padding: 8px;
+  padding: 9px;
   border-radius: 5px; 
   background-color: goldenrod; 
   color: whitesmoke;
   border: 1px solid goldenrod;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 li.b {
   color: goldenrod;
