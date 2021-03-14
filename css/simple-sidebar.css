@@ -217,12 +217,11 @@ ul.b :link{
   color: goldenrod;
   list-style-type: none; 
   font-size: 20px;
-  line-height: 30px;
+  line-height: 50px;
   font-family: Georgia, serif; 
   display: inline;
   width: 100%;
-  padding-top: 15px;
-  padding-left: 20px;
+  padding: 10px;
   border-radius: 5px; 
   background-color: goldenrod; 
   color: whitesmoke;
