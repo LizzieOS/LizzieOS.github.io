@@ -236,7 +236,7 @@ li.b {
 }
 li.b :hover {
   color: goldenrod; 
-  background-color: whitesmoke;
+  background-color: white;
     opacity: 0.8;
 }
 }
