@@ -187,7 +187,7 @@ input[type=submit] {
   border: 5px solid goldenrod; 
   color: purple;
 }
-ul {
+ul.a {
   color: whitesmoke;
   list-style-type: square; 
   font-size: 20px;
@@ -199,7 +199,7 @@ ul {
   background: black;  
     opacity: 0.8;
 }
-li {
+li.a {
   color: whitesmoke;
   font-size: 20px;
   font-family: Georgia, serif; 
@@ -209,7 +209,7 @@ li {
   background-color: black; 
     opacity: 0.8;
 }
-li :hover {
+li.a :hover {
   color: goldenrod; 
   background-color: black;
     opacity: 0.8;
